@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+models/
+testdata/
+scratch/
+demix/
+spec/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/

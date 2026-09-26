@@ -1,0 +1,14 @@
+# What the unit and API tests need (no models, no torch): used by CI.
+#   pip install -r requirements-dev.txt && pytest
+numpy==2.4.6
+scipy==1.17.1
+librosa==0.11.0
+soundfile==0.14.0
+mido==1.3.3
+psutil==7.2.2
+fastapi==0.141.1
+uvicorn==0.54.0
+python-multipart==0.0.32
+httpx==0.28.1
+pytest==9.1.1
+ruff==0.16.9
