@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-This license covers Track Anatomy's own code. The machine-learning model weights
-it downloads at run time are not part of this repository and have their own
-licenses (see "Models and licenses" in README.md); the drum-separation weights
-are licensed for non-commercial use only.
